@@ -1,6 +1,6 @@
 /*
 * auteur 1: Alabdulwahhab Ali
-* Link to github repository: 
+* Link to github repository: https://github.com/ALi-Natiq/BMP_Inverteren
 *
 *Bron vermeldingen:
 *http://www.ece.ualberta.ca/~elliott/ee552/studentAppNotes/2003_w/misc/bmp_file_format/bmp_file_format.htm
