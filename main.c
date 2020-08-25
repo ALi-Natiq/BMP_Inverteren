@@ -10,7 +10,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#define BESTAND "C:\\download.bmp"
+#define BESTAND "C:\\download.bmp"         // De locatie waar de originele BMP file staat op je computer vervolgt bij zijn naam
 void Data(FILE*,FILE*,int*,int*);  				// Deze functie koppieërd de header naar de nieuwe file.
 void InversData(FILE*,FILE*,int); 				// Deze functie inverteerd de kleuren.
 void GrooteAfbeelding(FILE*,FILE*,int*,int*); 			// Deze functie berekend de oppervlakte van de BMP file.
