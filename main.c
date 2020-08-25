@@ -1,8 +1,6 @@
 /*
 * auteur 1: Alabdulwahhab Ali
-* auteur 2: Van Puyenbroeck Glen
-* auteur 3: Wesley Vrancken
-* Link to github repository: https://github.com/GlenVanPuyenbroeck/Alabdulwahhab_VanPuyenbroeck_Vrancken_BMP_Color_Invert
+* Link to github repository: 
 *
 *Bron vermeldingen:
 *http://www.ece.ualberta.ca/~elliott/ee552/studentAppNotes/2003_w/misc/bmp_file_format/bmp_file_format.htm
